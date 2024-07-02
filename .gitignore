@@ -1,2 +1,10 @@
 # pycharm project files
 .idea
+
+# Input directory except readme
+input
+!input/Readme.md
+
+# Output directory except readme
+output
+!output/Readme.md
